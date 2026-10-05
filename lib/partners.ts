@@ -84,6 +84,29 @@ export const partners: Partner[] = [
       "Weekly payout timing and minimum withdrawal can change, so verify inside the partner dashboard.",
     ],
   },
+
+  {
+    slug: "candy-ai",
+    name: "Candy AI",
+    tagline: "A polished AI companion platform focused on chat and visual generation.",
+    description:
+      "Candy AI combines AI companion chat with character creation and visual generation, making it a strong option for users who want a polished, visual-first experience.",
+    website: "https://candy.ai/",
+    affiliateUrl: "https://candy.ai/",
+    commission: "RevShare — verify current rate",
+    model: "Revenue share",
+    bestFor: "Polished visual experience",
+    features: ["AI companions", "Chat", "Image generation", "Video generation"],
+    notes: [
+      "Candy AI publishes affiliate terms based on revenue share.",
+      "The exact commission rate should be verified in the current affiliate dashboard before being presented as a fixed percentage.",
+    ],
+  },
+
+
+
+
+  
   {
     slug: "secrets-ai",
     name: "Secrets AI",
